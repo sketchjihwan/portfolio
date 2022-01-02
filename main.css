@@ -1,3 +1,13 @@
-.wrap .gridWrap {width:100%}
-.wrap .gridWrap .grid {width:100%}
-.wrap .gridWrap .grid img {width:100%}
+/* grid */
+.wrap .gridWrap {width:100%; display:flex}
+.wrap .gridWrap .grid {margin-left:3px; margin-bottom:3px;}
+.wrap .gridWrap .grid img {width:100%; padding:0; margin:0}
+
+
+/* grid */
+.grid01 {}
+.grid01 .grid01_1 {}
+.grid01 .grid01_2 {}
+.grid02 {}
+.grid03 {}
+.grid04 {}
