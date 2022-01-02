@@ -80,6 +80,12 @@ a:active {color:#222}
 .pl30 {padding-left:30px}
 .pr30 {padding-right:30px}
 
+/* nav */
+#wrap {position:relative}
+/* nav */
+#nav > h2 {position:fixed; bottom:1%; font-size:1.25rem; font-weight:600}
+#nav > .index {left:1%}
+#nav > .contact {right:1%}
 
 /* grid */
 .grid01 {}
