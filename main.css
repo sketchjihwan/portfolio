@@ -2,5 +2,5 @@
 /* nav */
 #nav {position:relative}
 #nav > h2 {position:absolute; bottom:2%; font-size:1.25rem; font-weight:600}
-#nav > .index {left:2%}
-#nav > .contact {right:2%}
+#nav > .index {left:1%}
+#nav > .contact {right:1%}
