@@ -1,0 +1,7 @@
+/* 스포카 산스 폰트 임포트 */
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+/* common */
+body {background:#fff; font-size:10px; line-height:10px; color:#222; font-family:'Spoqa Han Sans Neo', 'sans-serif';}
+a {color:#222; text-decoration: none;}
+a:hover {color:#222}
+a:active {color:#222}
