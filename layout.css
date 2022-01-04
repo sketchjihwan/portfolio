@@ -1,10 +1,12 @@
 /* 스포카 산스 폰트 임포트 */
 @import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
 /* common */
+html {scroll-behavior: smooth}
 body {background:#fff; font-size:10px; line-height:10px; color:#222; font-family:'Spoqa Han Sans Neo', 'sans-serif';}
 a {color:#222; text-decoration: none;}
 a:hover {color:#222}
 a:active {color:#222}
+button {background:transparent; border:none; cursor:pointer}
 
 /* margin */
 .m0 {margin:0 !important}
@@ -97,7 +99,8 @@ a:active {color:#222}
 /* nav */
 .logo {position:fixed; top:1%; left:1%}
 .nameTitle {padding-right:1%; text-align:right}
-.nav > h2 {position:fixed; bottom:1%; font-size:1.25rem; font-weight:600}
+.nav > h2{position:fixed; bottom:1%; font-size:1.25rem; font-weight:600}
+.nav > h2 > button {font-size:1.25rem; font-weight:600}
 .nav > .index {left:1%}
 .nav > .contact {right:1%}
 
