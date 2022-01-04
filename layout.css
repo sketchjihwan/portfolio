@@ -95,7 +95,8 @@ a:active {color:#222}
 /* nav */
 .wrap {position:relative; width:100%; box-sizing:border-box}
 /* nav */
-.logo {position:fixed; top:1%; right:1%}
+.logo {position:fixed; top:1%; left:1%}
+.nameTitle {padding-right:1%; text-align:right}
 .nav > h2 {position:fixed; bottom:1%; font-size:1.25rem; font-weight:600}
 .nav > .index {left:1%}
 .nav > .contact {right:1%}
